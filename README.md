@@ -91,7 +91,7 @@ Receive step-by-step guidance for applying to schemes:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-org/civicbridge-ai.git
+git clone https://github.com/sudeenjain/CivicBridge-Ai.git
 cd civicbridge-ai
 
 # Install dependencies
@@ -204,9 +204,6 @@ Key endpoints:
 - `POST /api/profile` - Create/update user profile
 - `GET /api/guide/:schemeId` - Get application guide
 
-## Contributing
-
-We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ### Development Workflow
 
@@ -234,13 +231,6 @@ CivicBridge AI is committed to accessibility:
 - Users can delete their data at any time
 - Compliance with data protection regulations
 
-## Support
-
-For help and support:
-- Documentation: [docs.civicbridge.ai](https://docs.civicbridge.ai)
-- Email: support@civicbridge.ai
-- Community Forum: [forum.civicbridge.ai](https://forum.civicbridge.ai)
-
 ## Roadmap
 
 ### Phase 1 (Current)
@@ -260,9 +250,7 @@ For help and support:
 - Application status tracking
 - Community forums and peer support
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
@@ -270,11 +258,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Open-source translation and speech recognition libraries
 - Community feedback and user testing participants
 
-## Contact
 
-- Website: [civicbridge.ai](https://civicbridge.ai)
-- Email: info@civicbridge.ai
-- Twitter: [@CivicBridgeAI](https://twitter.com/CivicBridgeAI)
 
 ---
 
